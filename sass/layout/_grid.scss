@@ -12,7 +12,7 @@
     float: left;
 
     &:not(:last-child) {
-      margin-left: $gutter-horizontal;
+      margin-right: $gutter-horizontal;
     }
   }
 
