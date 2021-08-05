@@ -66,11 +66,11 @@ body {
   }
 
   @include respond(tab-port) {
-    letter-spacing: 3rem;
+    letter-spacing: 0.5rem;
   }
 
   @include respond(phone) {
-    letter-spacing: 2.5rem;
+    letter-spacing: 0.5rem;
   }
 }
 
