@@ -1,8 +1,8 @@
-# Tea Station Project
+# Natours Project
 
 > https://station-of-tea-project.netlify.app/
 
-<a href="https://station-of-tea-project.netlify.app/" target="_blank"><img src="./project-image.png" alt="project image"></a>
+<a href="https://station-of-tea-project.netlify.app/" target="_blank"><img src="./hero.png" alt="project image"></a>
 
 ---
 
